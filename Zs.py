@@ -1,1 +1,1 @@
-import zihad.py
+import zihad
